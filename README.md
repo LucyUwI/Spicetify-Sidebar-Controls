@@ -19,7 +19,7 @@ Move-Item .\Sidebar-Controls\ ~\AppData\Local\spicetify\Themes\
 spicetify config current_theme Sidebar-Controls
 spicetify apply
 ```
-### Volume Hover Extentiuon (Recomended)
+### Volume Hover Extension (Recomended)
 ![](/VHPreview.gif)
 ```bash
 mv VolumeBeforeHover.js ~/.config/spicetify/Extensions
